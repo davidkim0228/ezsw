@@ -22,10 +22,7 @@
             </intent-filter>
         </activity>
         <activity android:name=".s_dining" />
-        <activity
-            android:name=".s_utype"
-            android:label="@string/title_activity_s_utype"
-            android:theme="@style/AppTheme.NoActionBar"></activity>
+        <activity android:name=".s_utype"></activity>
     </application>
 
 </manifest>
